@@ -2,7 +2,7 @@
 
 
 ```
-#Run Python file in terminal
+Run Python file in terminal
 
 $ python3 solution.py
 
